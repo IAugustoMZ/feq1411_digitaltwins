@@ -70,3 +70,12 @@ The application will be available at `http://127.0.0.1:8050/`.
 ## Acknowledgements
 
 This project is developed as part of the FEQ1411 - Digital Twins and Simulation course.
+
+## Screenshots of the solution
+
+![image](https://github.com/IAugustoMZ/feq1411_digitaltwins/assets/42342168/71614254-5985-4598-8fed-e1fe65ee5904)
+
+![image](https://github.com/IAugustoMZ/feq1411_digitaltwins/assets/42342168/40f3756a-38ec-4835-a72b-21e790064178)
+
+![image](https://github.com/IAugustoMZ/feq1411_digitaltwins/assets/42342168/d882afcb-b9f2-4549-8be4-000d12dc0bf3)
+
